@@ -2,7 +2,82 @@
 
 Now that you've learned the principles and techniques of prompt engineering for Amazon Q Developer, it's time to put your knowledge into practice. This section provides a series of exercises designed to help you apply what you've learned in real-world scenarios.
 
-## Exercise 1: Improving Basic Prompts
+## Example 1: Implementing a Feature
+
+```
+I need to implement a user authentication system for a Flask application.
+
+Requirements:
+- Support email/password login
+- Include password reset functionality
+- Implement JWT-based session management
+- Follow security best practices
+
+Here's my current project structure:
+@app.py
+@models/user.py
+@routes/
+
+Please provide the necessary code changes and explain your implementation approach.
+```
+
+## Example 2: Debugging an Issue
+
+```
+I'm getting the following error when trying to deploy my CloudFormation stack:
+
+"Resource of type 'AWS::IAM::Role' with identifier 'LambdaExecutionRole' already exists."
+
+Here's my template:
+@cloudformation/template.yaml
+
+What's causing this error and how can I fix it?
+```
+
+## Example 3: Architecture Review
+
+```
+As a cloud architect, please review my serverless architecture for a high-traffic e-commerce application:
+@architecture/diagram.md
+@architecture/requirements.md
+
+Specifically, I'm concerned about:
+1. Scalability during flash sales
+2. Cost optimization
+3. Resilience to regional outages
+4. Data consistency across services
+
+Suggest improvements and identify any potential issues.
+```
+
+## Example 4: Code Optimization
+
+```
+Using @workspace, analyze my Lambda function that processes large S3 files. It's currently taking too long to execute and sometimes times out.
+
+Please identify performance bottlenecks and suggest optimizations to:
+1. Reduce execution time
+2. Lower memory usage
+3. Improve error handling
+4. Make the code more maintainable
+
+Provide specific code changes with explanations.
+```
+
+## Example 5: Learning a New Concept
+
+```
+Explain AWS Step Functions to me as if I'm an experienced developer but new to workflow orchestration.
+
+Include:
+- Core concepts and terminology
+- When to use Step Functions vs. other AWS services
+- Best practices for error handling and retries
+- A simple example of a Step Function definition for an order processing workflow
+- Common pitfalls to avoid
+```
+
+## Exercise 6: Improving Basic Prompts
 
 **Objective:** Practice transforming vague prompts into effective ones using the C.R.I.S.P. framework.
 
@@ -42,7 +117,7 @@ This improved prompt:
 - Specifies the desired behavior for edge cases
 - Asks for consideration of additional edge cases
 
-## Exercise 2: Debugging with Effective Prompts
+## Exercise 7: Debugging with Effective Prompts
 
 **Objective:** Practice creating effective debugging prompts that provide sufficient context and information.
 
@@ -97,7 +172,7 @@ function UserProfile({ userId }) {
 The component is causing the browser to freeze due to infinite re-renders. I've verified that the API endpoint works correctly and returns the expected data. What's causing the infinite re-renders and how can I fix it?
 ```
 
-## Exercise 3: Refactoring with Chain-of-Thought Prompting
+## Exercise 8: Refactoring with Chain-of-Thought Prompting
 
 **Objective:** Practice using chain-of-thought prompting to guide Amazon Q through a complex refactoring task.
 
@@ -192,7 +267,7 @@ That structure looks good. Let's start implementing the refactored code. Can you
 
 4. Continue with similar prompts for each module until the entire function is refactored.
 
-## Exercise 4: Handling Potential Hallucinations
+## Exercise 9: Handling Potential Hallucinations
 
 **Objective:** Practice techniques for identifying and reducing hallucinations in Amazon Q Developer's responses.
 
@@ -230,7 +305,7 @@ This prompt:
 - Explicitly gives permission to acknowledge uncertainty
 - Requests citations for information sources
 
-## Exercise 5: Complex Task Decomposition
+## Exercise 10: Complex Task Decomposition
 
 **Objective:** Practice breaking down a complex task into smaller, manageable subtasks for Amazon Q Developer.
 

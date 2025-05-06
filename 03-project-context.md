@@ -42,6 +42,40 @@ Amazon Q Developer also uses your chat history to understand context. Here, you 
 
 This means that Amazon Q can reference previous questions and answers in the current chat session, building upon earlier discussions to provide more relevant and contextual responses.
 
+## Context Inclusion Methods
+
+Amazon Q Developer provides several ways to include context in your prompts:
+
+### @file Notation
+
+Include specific files as context.
+
+**Example**: "Analyze the code in @app.py for potential security vulnerabilities."
+
+### @folder Notation
+
+Include entire folders as context.
+
+**Example**: "Review the @src folder and suggest improvements to the error handling approach."
+
+### @workspace Notation
+
+Include relevant files from your workspace.
+
+**Example**: "Using @workspace, help me understand how the authentication flow works in this project."
+
+### @prompt Notation
+
+Reference saved prompts.
+
+**Example**: "Using @code_review_checklist, review this pull request."
+
+### @symbol Notation
+
+Reference specific code symbols (functions, classes, variables).
+
+**Example**: "Explain how the @UserAuthenticator class works."
+
 ## Best Practices for Maximizing Context
 
 To help Amazon Q Developer fully and accurately understand your project's context, here are some best practices:

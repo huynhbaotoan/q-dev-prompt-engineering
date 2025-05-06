@@ -1,5 +1,27 @@
 # Conclusion and Resources
 
+## Best Practices
+
+1. **Start with clear objectives**: Define what you want to achieve before crafting your prompt.
+
+2. **Provide sufficient context**: Include relevant code, error messages, and constraints.
+
+3. **Use appropriate context inclusion methods**: Choose between @file, @folder, @workspace based on your needs.
+
+4. **Break down complex tasks**: Divide large problems into smaller, manageable chunks.
+
+5. **Iterate and refine**: Use the initial response to refine your follow-up prompts.
+
+6. **Specify constraints**: Mention any limitations or requirements that should guide the response.
+
+7. **Request explanations**: Ask Amazon Q to explain its reasoning or approach.
+
+8. **Use role-based prompting**: Assign a specific role to get specialized expertise.
+
+9. **Leverage built-in agent experiences**: Use slash commands for specialized assistance.
+
+10. **Save effective prompts**: Create saved prompts for recurring tasks.
+
 ## Key Takeaways
 
 Throughout this guide, we've explored various techniques and best practices for prompt engineering with Amazon Q Developer. Here are the key takeaways:

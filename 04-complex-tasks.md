@@ -10,7 +10,14 @@ Chain-of-thought (CoT) prompting is a technique that guides large language model
 
 Chain-of-thought prompting generates a sequence of short and actionable prompts to describe reasoning logics step by step, known as reasoning chains or rationales, to eventually lead to the final answer/output.
 
-**Analogy:** Imagine you're asking a chef to make a pizza for you. If you simply say, "make me a pizza," they might miss some details or make choices you wouldn't expect. They'll probably use a sauce you don't prefer or bake it too long. In coding, simply asking for a "pizza" is like asking Amazon Q to complete a complex coding task with minimal instruction.
+**Analogy:** Imagine you're asking a chef to make a pizza for you. If you simply say, `make me a pizza,` they might miss some details or make choices you wouldn't expect. They'll probably use a sauce you don't prefer or bake it too long. In coding, simply asking for a "pizza" is like asking Amazon Q to complete a complex coding task with minimal instruction.
+
+Guide Amazon Q through a step-by-step reasoning process for complex problems.
+
+**Example**: "I need to optimize a slow-performing Lambda function. Let's approach this systematically:
+1. First, help me identify potential bottlenecks in my code
+2. Then, suggest specific optimizations for each bottleneck
+3. Finally, provide a refactored version of the function with these optimizations"
 
 ### Why is CoT Useful?
 

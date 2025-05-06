@@ -70,7 +70,7 @@ For the best learning experience:
 
 ## About This Guide
 
-This guide is based on best practices and techniques for working with large language models, specifically tailored for Amazon Q Developer. The examples and approaches have been tested and refined to help you get the most out of this powerful tool.
+This guide is based on best practices and techniques for working with large language models, specifically tailored for Amazon Q Developer. By following this guide, you'll be able to craft more effective prompts for Amazon Q Developer, resulting in more accurate, relevant, and helpful responses that accelerate your development workflow.
 
 As Amazon Q Developer evolves with new features and capabilities, we'll update this guide to reflect the latest best practices.
 
