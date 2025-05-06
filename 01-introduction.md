@@ -110,9 +110,16 @@ Asking about niche technologies, frameworks, or multiple services that may be ou
 
 LLMs generally have a bias toward generating positive responses. When given negative instructions, they might confuse what should be avoided with what needs to be accomplished.
 
-| ❌ **Bad Example**    | Don't use long variable names. |
-| ✅ **Better Example** | Use short variable names.      |
-
+<table>
+  <tr>
+    <td>❌ <strong>Bad Example</strong></td>
+    <td>Don't use long variable names.</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Better Example</strong></td>
+    <td>Use short variable names.</td>
+  </tr>
+</table>
 
 ### 4. Leading Questions
 
