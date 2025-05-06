@@ -56,6 +56,15 @@ Vague prompts lead to vague responses. Provide specific details about what you n
 **Less effective**: "Help me with Python."  
 **More effective**: "Help me write a Python function that reads a CSV file, filters rows where the 'status' column equals 'active', and returns the filtered data as a list of dictionaries."
 
+- **Provide context**: Include relevant information about your project, language, and frameworks
+- **State your goal**: Clearly articulate what you're trying to accomplish
+- **Specify constraints**: Mention any limitations or requirements
+
+### Structure Your Prompts
+- **Use a consistent format**: Problem statement → Context → Specific request
+- **Break complex requests into steps**: Ask for one thing at a time
+- **Use appropriate technical terminology**: Be precise with technical terms
+
 ### Provide Context
 
 Include relevant information about your project, environment, and constraints.
@@ -174,6 +183,14 @@ LLMs often have a bias to agree with you. If you ask a leading question, the mod
     <td>What are the comparative advantages and disadvantages of React versus Angular for different types of projects?</td>
   </tr>
 </table>
+
+### 5. Common Pitfalls to Avoid
+
+1. **Vague requests**: Avoid general questions without context
+2. **Overwhelming complexity**: Don't pack too many requirements into one prompt
+3. **Missing constraints**: Always specify version requirements and compatibility needs
+4. **Ignoring previous context**: Reference relevant parts of the conversation
+5. **Technical ambiguity**: Be precise with technical terminology
 
 ## Next Steps
 
