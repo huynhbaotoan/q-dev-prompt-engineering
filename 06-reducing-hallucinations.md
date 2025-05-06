@@ -138,4 +138,4 @@ Now that you've learned techniques for reducing hallucinations and inaccuracies 
 
 ---
 
-[Next: Practical Exercises](./06-practical-exercises.md) | [Previous: Writing Effective Prompts for Complex Tasks](./04-complex-tasks.md) | [Back to Main](../README.md)
+[Next: Practical Exercises](./07-practical-exercises.md) | [Previous: Writing Effective Prompts for Complex Tasks](./05-complex-tasks.md) | [Back to Main](./README.md)

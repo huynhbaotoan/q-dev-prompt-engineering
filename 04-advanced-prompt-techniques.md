@@ -1,3 +1,5 @@
+# Advanced Prompt Techniques
+
 ## Chain of Thought Prompting
 
 Guide Amazon Q through a step-by-step reasoning process for complex problems.
@@ -92,3 +94,7 @@ Constraints:
 - [constraint 2]
 Please suggest an AWS architecture with justifications for each component choice.
 ```
+
+---
+
+[Next: Writing Effective Prompts for Complex Tasks](./05-complex-tasks.md) | [Previous: Crafting Effective Prompts for Simple Tasks](./03-project-context.md) | [Back to Main](./README.md)

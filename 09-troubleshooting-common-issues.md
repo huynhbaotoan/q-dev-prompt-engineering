@@ -19,3 +19,7 @@
 
 **Problem**: Amazon Q can't perform certain actions.  
 **Solution**: Ensure you're in the appropriate mode (read-only vs. pair-programming) for your task. Use the IDE Chat toggle to switch between modes if necessary.
+
+---
+
+[Next: Conclusion and Resources](./10-conclusion.md) | [Previous: Practical Exercises](./08-advanced-tips.md) | [Back to Main](./README.md)

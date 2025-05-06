@@ -113,4 +113,4 @@ Thank you for exploring prompt engineering with Amazon Q Developer. We hope this
 
 ---
 
-[Previous: Advanced Tips and Techniques](./07-advanced-tips.md) | [Back to Main](../README.md)
+[Previous: Advanced Tips and Techniques](09-troubleshooting-common-issues.md) | [Back to Main](./README.md)

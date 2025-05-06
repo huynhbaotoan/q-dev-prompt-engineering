@@ -212,4 +212,4 @@ Now that you've learned how to craft effective prompts for simple tasks, let's e
 
 ---
 
-[Next: Understanding Project Context](./03-project-context.md) | [Previous: Introduction to Prompt Engineering](./01-introduction.md) | [Back to Main](../README.md)
+[Next: Understanding Project Context](./03-project-context.md) | [Previous: Introduction to Prompt Engineering](./01-introduction.md) | [Back to Main](./README.md)

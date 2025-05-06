@@ -361,4 +361,4 @@ In the next section, we'll explore some advanced techniques and tips for getting
 
 ---
 
-[Next: Advanced Tips and Techniques](./07-advanced-tips.md) | [Previous: Reducing Hallucinations and Inaccuracies](./05-reducing-hallucinations.md) | [Back to Main](../README.md)
+[Next: Advanced Tips and Techniques](./08-advanced-tips.md) | [Previous: Reducing Hallucinations and Inaccuracies](./06-reducing-hallucinations.md) | [Back to Main](./README.md)

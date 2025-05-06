@@ -181,4 +181,4 @@ Now that you understand the basics of prompt engineering and the C.R.I.S.P frame
 
 ---
 
-[Next: Crafting Effective Prompts for Simple Tasks](./02-simple-tasks.md) | [Back to Main](../README.md)
+[Next: Crafting Effective Prompts for Simple Tasks](./02-simple-tasks.md) | [Back to Main](./README.md)

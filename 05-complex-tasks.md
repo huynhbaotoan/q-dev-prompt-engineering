@@ -178,4 +178,4 @@ Now that you've learned how to use chain-of-thought prompting for complex tasks,
 
 ---
 
-[Next: Reducing Hallucinations and Inaccuracies](./05-reducing-hallucinations.md) | [Previous: Understanding Project Context](./03-project-context.md) | [Back to Main](../README.md)
+[Next: Reducing Hallucinations and Inaccuracies](./06-reducing-hallucinations.md) | [Previous: Understanding Project Context](./04-advanced-prompt-techniques.md) | [Back to Main](./README.md)
