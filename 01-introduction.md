@@ -1,5 +1,14 @@
 # Introduction to Prompt Engineering with Amazon Q Developer
 
+## Understanding Amazon Q Developer
+
+Amazon Q Developer is an AI-powered assistant designed to help developers with coding tasks, answering questions, and providing guidance on AWS services and best practices. It operates in two modes:
+
+- **Read-only mode**: Can read files and list directories but cannot modify files or execute commands
+- **Pair-programming mode**: Can read, write files, and execute commands to help you implement solutions
+
+Understanding these capabilities is essential for crafting effective prompts.
+
 ## What is Prompt Engineering?
 
 Prompt engineering is the art and science of communicating effectively with large language models (LLMs) like Amazon Q Developer to achieve desired results. If coding is the language we use to communicate with computers, then prompts are the language we use to communicate with LLMs.
@@ -37,6 +46,36 @@ While prompt engineering can greatly improve the accuracy and relevance of respo
 2. **Limited Contextual Awareness**: An LLM assists you based on the input you provide and its trained knowledge. However, there are many contexts you can't provide through prompts, so it's essential to be aware of the model's contextual limitations.
 
 3. **Human Judgment Still Required**: Prompt engineering can guide Amazon Q to produce helpful suggestions, but human expertise is still required to validate, adapt, and optimize the generated code, especially for large, complex projects.
+
+## Basic Prompt Engineering Principles
+
+### Be Specific and Clear
+
+Vague prompts lead to vague responses. Provide specific details about what you need.
+
+**Less effective**: "Help me with Python."  
+**More effective**: "Help me write a Python function that reads a CSV file, filters rows where the 'status' column equals 'active', and returns the filtered data as a list of dictionaries."
+
+### Provide Context
+
+Include relevant information about your project, environment, and constraints.
+
+**Less effective**: "How do I deploy this application?"  
+**More effective**: "I have a Flask web application that needs to be deployed on AWS. I want to use container services for scalability. How should I approach this deployment?"
+
+### State Your Goal
+
+Clearly articulate what you're trying to achieve.
+
+**Less effective**: "Tell me about DynamoDB."  
+**More effective**: "I need to design a DynamoDB table for a social media application where users can post content and follow other users. What would be an efficient table design considering access patterns for user profiles, posts, and follower relationships?"
+
+### Specify Output Format
+
+When you need a specific format, explicitly request it.
+
+**Less effective**: "Write code to process JSON data."  
+**More effective**: "Write a Python function that processes this JSON data and returns the results as a pandas DataFrame. Include docstrings and type hints."
 
 ## The C.R.I.S.P Framework for Effective Prompts
 
