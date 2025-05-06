@@ -250,7 +250,6 @@ Please include:
 - Complete TypeScript code with proper types
 - Comments explaining key aspects of the implementation
 - A usage example showing how the classes work together
-```
 
 ## Next Steps
 
