@@ -10,12 +10,12 @@ Amazon Q Developer uses various sources of information to build a comprehensive 
 
 #### 1. Current File Context
 
-Amazon Q Developer primarily works with the file that is currently open in your editor. It analyzes the code surrounding the cursor (up to a 4,000-character limit, which will be expanded in the future) to provide relevant suggestions.
+Amazon Q Developer primarily works with the file that is currently open in your editor. It analyzes the code surrounding the cursor to provide relevant suggestions.
 
 The model can understand:
 - Your coding patterns and intent
 - The broader structure of the file
-- Classes, packages, or modules being used (for Java, Python, and JavaScript projects)
+- Classes, packages, or modules being used
 
 **Example:**
 If you are writing a Python function within a class, Amazon Q Developer can offer suggestions based on the class methods that have already been defined, ensuring that the generated code aligns with the existing structure of the class.
