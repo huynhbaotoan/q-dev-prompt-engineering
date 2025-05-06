@@ -22,4 +22,4 @@
 
 ---
 
-[Next: Conclusion and Resources](./10-conclusion.md) | [Previous: Practical Exercises](./08-advanced-tips.md) | [Back to Main](./README.md)
+[Next: Conclusion and Resources](./10-conclusion.md) | [Previous: Advanced Tips and Techniques](./08-advanced-tips.md) | [Back to Main](./README.md)

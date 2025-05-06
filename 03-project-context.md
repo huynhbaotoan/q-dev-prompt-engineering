@@ -137,4 +137,4 @@ Now that you understand how Amazon Q builds context from your project, you can l
 
 ---
 
-[Next: Writing Effective Prompts for Complex Tasks](./04-advanced-prompt-techniques.md) | [Previous: Crafting Effective Prompts for Simple Tasks](./02-simple-tasks.md) | [Back to Main](./README.md)
+[Next: Advanced Prompt Techniques](./04-advanced-prompt-techniques.md) | [Previous: Crafting Effective Prompts for Simple Tasks](./02-simple-tasks.md) | [Back to Main](./README.md)

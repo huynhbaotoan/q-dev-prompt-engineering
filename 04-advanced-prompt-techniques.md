@@ -97,4 +97,4 @@ Please suggest an AWS architecture with justifications for each component choice
 
 ---
 
-[Next: Writing Effective Prompts for Complex Tasks](./05-complex-tasks.md) | [Previous: Crafting Effective Prompts for Simple Tasks](./03-project-context.md) | [Back to Main](./README.md)
+[Next: Writing Effective Prompts for Complex Tasks](./05-complex-tasks.md) | [Previous: Understanding Project Context](./03-project-context.md) | [Back to Main](./README.md)

@@ -259,4 +259,4 @@ In the final section, we'll summarize the key takeaways from this guide and prov
 
 ---
 
-[Next: Conclusion and Resources](./09-troubleshooting-common-issues.md) | [Previous: Practical Exercises](./07-practical-exercises.md) | [Back to Main](./README.md)
+[Next: Troubleshooting Common Issues](./09-troubleshooting-common-issues.md) | [Previous: Practical Exercises](./07-practical-exercises.md) | [Back to Main](./README.md)
