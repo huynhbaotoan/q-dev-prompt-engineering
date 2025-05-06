@@ -110,16 +110,24 @@ Asking about niche technologies, frameworks, or multiple services that may be ou
 
 LLMs generally have a bias toward generating positive responses. When given negative instructions, they might confuse what should be avoided with what needs to be accomplished.
 
-| ❌ **Bad Example** | Don't use long variable names. |
-| ✅ **Better Example** | Use short variable names. |
+| ❌ **Bad Example**    | Don't use long variable names. |
+| ✅ **Better Example** | Use short variable names.      |
+
 
 ### 4. Leading Questions
 
 LLMs often have a bias to agree with you. If you ask a leading question, the model might hallucinate an answer that aligns positively with your question, even if it's not true.
 
-**Bad Example:** "Isn't it true that React is always better than Angular for all projects?"
-
-**Better Example:** "What are the comparative advantages and disadvantages of React versus Angular for different types of projects?"
+<table>
+  <tr>
+    <td>❌ <strong>Bad Example</strong></td>
+    <td>Isn't it true that React is always better than Angular for all projects?</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Better Example</strong></td>
+    <td>What are the comparative advantages and disadvantages of React versus Angular for different types of projects?</td>
+  </tr>
+</table>
 
 ## Next Steps
 
