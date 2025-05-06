@@ -64,9 +64,9 @@ If you are unsure about the specific issues in your code, you can use Amazon Q's
 
 #### Formula for Refactoring Prompts:
 
-1. Describe the current issue with the code: "My code works, but [specific problem]"
-2. Describe the specific objective for refactoring: "I want to improve [specific objective]"
-3. Provide the code snippet: "Here's the code: [code snippet]"
+1. Describe the current issue with the code: `My code works, but [specific problem]`
+2. Describe the specific objective for refactoring: `I want to improve [specific objective]`
+3. Provide the code snippet: `Here's the code: [code snippet]`
 
 #### Example: Refactoring a Python Function
 
@@ -119,8 +119,8 @@ You can have Amazon Q write your unit tests directly, saving you the effort of c
 
 #### Formula for Unit Testing Prompts:
 
-1. Provide the Code: "Here's my [function or class] code: [paste code]"
-2. Request Unit Test Suggestions: "Can you suggest some unit test cases for it?"
+1. Provide the Code: `Here's my [function or class] code: [paste code]`
+2. Request Unit Test Suggestions: `Can you suggest some unit test cases for it?`
 
 #### Example: Generating Unit Tests for a Python Function
 
@@ -150,9 +150,9 @@ When you want a function optimized, it's important to identify where the perform
 
 #### Formula for Code Optimization Prompts:
 
-1. Provide context of your code: "I have a [type of code/function]"
-2. Ask Q to identify potential performance issues and optimize the code: "Can you identify the potential performance issues and optimize the code?"
-3. Provide code snippet: "Here is my code: [code]"
+1. Provide context of your code: `I have a [type of code/function]`
+2. Ask Q to identify potential performance issues and optimize the code: `Can you identify the potential performance issues and optimize the code?`
+3. Provide code snippet: `Here is my code: [code]`
 
 #### Example: Optimizing a Python Function for Speed
 
