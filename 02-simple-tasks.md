@@ -10,9 +10,9 @@ When debugging, simply stating that something doesn't work may not always lead t
 
 #### Formula for Debugging Prompts:
 
-1. Provide context of your code: "I have a [type of code/function]"
-2. Describe the symptoms: "It's supposed to [desired outcome] but [issue]"
-3. Ask for root causes and fix: "Can you identify the root causes of [symptom] and provide a fix?"
+1. Provide context of your code: "I have a **[type of code/function]**"
+2. Describe the symptoms: "It's supposed to **[desired outcome]** but **[issue]**"
+3. Ask for root causes and fix: "Can you identify the root causes of **[symptom]** and provide a fix?"
 
 #### Example: Debugging a JavaScript Function
 
